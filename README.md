@@ -10,6 +10,7 @@ breve descripcion
 - [caracteristicas] (#caracteristicas) 
 - [tecnologias](#tecnologías)
 - [Requerimientos](Requerimientos)
+- [Instalacion](#Instalacion)
 
 ---
 ## caracteristicas 
