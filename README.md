@@ -7,7 +7,7 @@ breve descripcion
 ---
 
 ## Tabla de contenido
-- [caracteristicas] (#caracteristicas) 
+- [caracteristicas](#caracteristicas) 
 - [tecnologias](#tecnologías)
 - [Requerimientos](Requerimientos)
 - [Instalacion](#Instalacion)
@@ -39,4 +39,4 @@ pasos para instalara el proyecto localmente
 
 ```bash 
 git clone https://.com/F3SHARITH/repo_dos.git
-cd proyect
+cd proyecto
