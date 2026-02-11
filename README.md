@@ -2,7 +2,7 @@
 repositorio para pruebas de trabajo colaborativo  y en grupo 
 # Proyecto de uso de herramientas GIT contribuyentes
 
-breve descripcion 
+linea para generar conflicto
 
 ---
 
