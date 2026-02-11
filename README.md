@@ -51,3 +51,10 @@ cd ..
 [![clic para ver video](asset/image2.png)](https://youtu.be/ALJyaHmVUNg?si=8csE2MDYY4QzcuMf)
 
 [![clic for watch video](https://png.pngtree.com/png-clipart/20240408/ourmid/pngtree-cat-screaming-meme-sticker-illustration-png-image_12268436.png)](https://youtu.be/SV5dE62iRl0?si=YFnTVqjs6J09xArW)
+
+---
+## demo
+
+si quiere ver el programa dar clic
+
+[open in stackBlitz](https://stackblitz.com/edit/secret-python-qjvjezn7?file=main.py)
