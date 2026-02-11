@@ -49,4 +49,5 @@ cd ..
 ## video tutorial 
 
 [![clic para ver video](asset/image2.png)](https://youtu.be/ALJyaHmVUNg?si=8csE2MDYY4QzcuMf)
-[![clic for watch video](https://es.pngtree.com/so/memes)](https://youtu.be/VBx52T3I-CI?si=eQebVKMft53e7uVI)
+##
+[![clic for watch video](asset/https://es.pngtree.com/so/memes)](https://youtu.be/VBx52T3I-CI?si=eQebVKMft53e7uVI)
