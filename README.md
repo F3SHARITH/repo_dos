@@ -40,6 +40,12 @@ linea para generar conflicto
 ## Instalación 
 pasos para instalara el proyecto localmente 
 
-```bash 
+```bash``` 
 git clone https://.com/F3SHARITH/repo_dos.git
 cd proyecto
+cd .. 
+
+--- 
+## video tutorial 
+
+[![clic para ver video](asset/image2.png)](https://youtu.be/ALJyaHmVUNg?si=8csE2MDYY4QzcuMf)
